@@ -1,1 +1,3 @@
 This is our first line in the first document that is under source control.
+
+This is a change that John has made.
