@@ -1,3 +1,5 @@
-This is our first line in the first document that is under source control.
+This is Sarah's first line in the first document that is under source control - and it is a good beginning.
 
 This is a change that John has made.
+
+And this is another change by John.
